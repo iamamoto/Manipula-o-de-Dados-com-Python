@@ -1,4 +1,4 @@
-# Manipulação-de-Dados-com-Python
+# Manipulação de Dados com Python
 Obtenção, tratamento, preparação e visualização de dados utilizando Python.
 
 Projeto desenvolvido via formação de Analista de Dados pela EBAC.

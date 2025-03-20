@@ -1,4 +1,4 @@
-# Manipula-o-de-Dados-com-Python
+# Manipulação-de-Dados-com-Python
 Obtenção, tratamento, preparação e visualização de dados utilizando Python.
 
 Projeto desenvolvido via formação de Analista de Dados pela EBAC.
@@ -15,3 +15,6 @@ Projeto desenvolvido via formação de Analista de Dados pela EBAC.
   
 3. Visualização de Dados:
    - Criação de diferentes tipos de gráficos a partir dos dados tratados nos arquivos anteriores
+  
+4. Visualização de Dados com Dash:
+   - Criação de app Dash para visualização mais dinâmica dos gráficos

@@ -18,3 +18,5 @@ Projeto desenvolvido via formação de Analista de Dados pela EBAC.
   
 4. Visualização de Dados com Dash:
    - Criação de app Dash para visualização mais dinâmica dos gráficos
+
+OBS: substitua o caminho do seu arquivo de dados a ser importado
